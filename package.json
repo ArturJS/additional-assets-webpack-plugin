@@ -1,0 +1,27 @@
+{
+  "name": "additional-assets-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Generate additional assets during webpack compilation process with ability to hash and minify them",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturJS/additional-assets-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "asset",
+    "generate"
+  ],
+  "author": "Artur Nizamutdinov <nizamutdin.art@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturJS/additional-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/ArturJS/additional-assets-webpack-plugin#readme",
+  "dependencies": {
+    "uglify-js": "^3.1.9",
+    "webpack": "^3.8.1",
+    "webpack-sources": "^1.0.2"
+  }
+}
