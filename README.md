@@ -23,7 +23,7 @@ const webpackConfig = {
                 {
                   name: 'prebootInit',
                   filename: 'prebootInit-[hash].js',
-                  sourceCode: 'console.log('Hello world!')',
+                  sourceCode: 'console.log("Hello world!")',
                   uglifyJs: true
                 }
               ]
