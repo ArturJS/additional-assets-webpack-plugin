@@ -1,6 +1,6 @@
 {
   "name": "additional-assets-webpack-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate additional assets during webpack compilation process with ability to hash and minify them",
   "main": "index.js",
   "repository": {
